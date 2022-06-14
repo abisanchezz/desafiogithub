@@ -27,6 +27,12 @@ body{
                         "aside footer footer footer";
 }
 
+.menu header nav ul li:hover {
+    background-color: rgb(228, 172, 172);
+    font-size: 30px;
+   
+}
+
 /*PROPIEDADES DE LOS HIJOS*/
 
 header{
