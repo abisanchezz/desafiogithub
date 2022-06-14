@@ -1,0 +1,63 @@
+/*Index*/
+
+
+body{
+    background-image: url(../images/4853433.jpg);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header h1{
+    color: rosybrown;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Roboto Slab', serif;
+    background-color: antiquewhite
+}
+
+p{
+    color: maroon;
+    text-align: center;
+
+}
+
+.menu{
+display: flex;
+flex-direction: row;
+margin: 10px;
+justify-content: space-evenly;
+}
+
+
+.hijos{
+    width: 200px;
+    height: 30px;
+    background-color: rosybrown;
+    margin: 5px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.perroygato{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    justify-content: space-evenly;
+}
+
+main h3 {
+    text-align: center;
+    text-decoration: underline;}
+
+.ejemplo{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+   justify-content: space-evenly;
+}
+
