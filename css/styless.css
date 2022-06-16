@@ -1,0 +1,33 @@
+header {
+    background-color: rosybrown;
+}
+
+body{
+    background-image: url(../images/4853433.jpg); 
+}
+
+div header nav ul li{
+    border-radius: 10rem;
+    border: 2px solid black;
+    text-align: center;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    justify-content: space-evenly;
+    background-color:  rosybrown;
+    
+   
+}
+
+main div p{
+    background-color: rosybrown;
+    margin: 5px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px
+}
+
+footer {
+    background-color: rosybrown;
+    }
